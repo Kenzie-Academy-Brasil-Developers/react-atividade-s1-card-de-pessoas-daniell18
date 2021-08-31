@@ -1,5 +1,5 @@
 import "./App.css";
-import Developer from "./components/Developes";
+import Developer from "./components/Developers";
 
 function App() {
   const daniel = { name: "Daniel", age: 23, country: "Brasil" };
