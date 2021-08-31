@@ -1,0 +1,15 @@
+.Developer {
+  display: flex;
+  font-family: "sans-serif";
+  flex-direction: column;
+  align-items: center;
+}
+.Border {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: yellow;
+  align-items: center;
+  border: yellow solid 2px;
+  width: 200px;
+}
